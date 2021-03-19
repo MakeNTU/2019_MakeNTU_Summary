@@ -2,6 +2,15 @@
 Summary and list of team repositories of 2019 MakeNTU
 <!--Description TBA-->
 
+## 2019 Official Website
+https://github.com/binomial14/2019_MakeNTU_website (Not deployed)
+
+## 2019 Workshop
+- STM32 \
+[GitHub Link](https://github.com/ethanhuanginst/2019MakeNTUxST)
+- Face Lock with RPi, Azure, OpenCV \
+[GitHub Link](https://github.com/voidism/MakeNTU2019_workshop)
+
 ## Winning team repositories
 TBA
 
