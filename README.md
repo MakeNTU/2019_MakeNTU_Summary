@@ -10,6 +10,7 @@ Summary and list of team repositories of 2019 MakeNTU
 [GitHub Link](https://github.com/ethanhuanginst/2019MakeNTUxST)
 - Face Lock with RPi, Azure, OpenCV \
 [GitHub Link](https://github.com/voidism/MakeNTU2019_workshop)
+<br>
 
 ## Winning teams
 ### Organizer Awards 大會獎
@@ -54,6 +55,8 @@ Summary and list of team repositories of 2019 MakeNTU
 | 1 | 1 | ElitEphant | [1998Isabel/Classifiable-Closet](https://github.com/1998Isabel/Classifiable-Closet) |
 | 2 | 2 | 超萌妹子 | [evamo0508/TrashcAIn](https://github.com/evamo0508/TrashcAIn) |
 | Choice award | 15 | 再說 | [maoredman/marshmallow_roaster](https://github.com/maoredman/marshmallow_roaster) |
+
+<br>
 
 ## All team repositories
 | Team Number | Team Name | GitHub Link | Description |
