@@ -11,11 +11,52 @@ Summary and list of team repositories of 2019 MakeNTU
 - Face Lock with RPi, Azure, OpenCV \
 [GitHub Link](https://github.com/voidism/MakeNTU2019_workshop)
 
-## Winning team repositories
-TBA
+## Winning teams
+### Organizer Awards 大會獎
+| 　 | Team Number | Team Name | GitHub Link |
+ -------- | -------- | -------- | -------- |
+| Best Solver | 43 | 昱翰睡飽飽 | [jchen8tw/2019MakeNTU](https://github.com/jchen8tw/2019MakeNTU.git) |
+| Best Creativity | 15 | 再說 | [maoredman/marshmallow_roaster](https://github.com/maoredman/marshmallow_roaster) |
+| Best AI | 46 | Tool Man Studio | [voidful/makeNTU2019](https://github.com/voidful/makeNTU2019) (Link deprecated) |
+| Best Maker | 36 | 不要叫我想 | [KaoWYK/Smart-Lock](https://github.com/KaoWYK/Smart-Lock)<br>[Jim-CTChen/2019-makeNTU-smartLock](https://github.com/Jim-CTChen/2019-makeNTU-smartLock) |
+| Most Popular | 15 | 再說 | [maoredman/marshmallow_roaster](https://github.com/maoredman/marshmallow_roaster) |
+<br>
+### Enterprise Awards 企業獎
+#### Chunghwa Telecom Co., Ltd. 中華電信
+| Team Number | Team Name | GitHub Link |
+| -------- | -------- | -------- |
+| 36 | 不要叫我想 | [KaoWYK/Smart-Lock](https://github.com/KaoWYK/Smart-Lock)<br>[Jim-CTChen/2019-makeNTU-smartLock](https://github.com/Jim-CTChen/2019-makeNTU-smartLock) |
+#### Far EasTone Telecommunications Co., Ltd. 遠傳電信
+| 名次 | Team Number | Team Name | GitHub Link |
+| -------- | -------- | -------- | -------- |
+| 1 | 4 | 想不到隊名好爽喔!  | [lspss95207/lazy\_food\_catapult](https://github.com/lspss95207/lazy_food_catapult) |
+| 2 | 46 | Tool Man Studio | [voidful/makeNTU2019](https://github.com/voidful/makeNTU2019) (Link deprecated) |
+#### E.SUN Financial Holding Co., Ltd. 玉山金控
+| 名次 | Team Number | Team Name | GitHub Link |
+| -------- | -------- | -------- | -------- |
+| 優選 | 6 | 中央BMI | [oosb/makeNTU](https://github.com/oosb/makeNTU/blob/master/MakeNTU_06.ppt) (Link deprecated) |
+| 佳作 | 20 | 謝謝克安謝謝燦燦謝謝系學會 | [nba556677go/makeNTU2019](https://github.com/nba556677go/makeNTU2019) |
+| 佳作 | 35 | 超級威哥與小夥伴們朝向爭取正取創客松名額前進 | [william6715/MakeNTU2019](https://github.com/william6715/MakeNTU2019.git) |
+#### Cathay Financial Holdings Co., Ltd. 國泰金控
+| 名次 | Team Number | Team Name | GitHub Link |
+| -------- | -------- | -------- | -------- |
+| 1 | 43 | 昱翰睡飽飽 | [jchen8tw/2019MakeNTU](https://github.com/jchen8tw/2019MakeNTU.git) |
+| 2 | 8 | 出師表 | [ming024/ScAnIt](https://github.com/ming024/ScAnIt) |
+| 3 | 30 | 我是一隻魚，我不能夠喜歡你，就讓我游來游去，然後把你忘記 | [BogiHsu/MakeNTU2019-MagicBox](https://github.com/BogiHsu/MakeNTU2019-MagicBox) |
+#### MediaTek 聯發科技
+| 名次 | Team Number | Team Name | GitHub Link |
+| -------- | -------- | -------- | -------- |
+| 第一名 | 44 | 創客松小弟 | [tzyLee/MakeNTU2019](https://github.com/tzyLee/MakeNTU2019.git) |
+| 第二名 | 36 | 不要叫我想 | [KaoWYK/Smart-Lock](https://github.com/KaoWYK/Smart-Lock)<br>[Jim-CTChen/2019-makeNTU-smartLock](https://github.com/Jim-CTChen/2019-makeNTU-smartLock) |
+#### STMicroelectronics 意法半導體
+| 名次 | Team Number | Team Name | GitHub Link |
+| -------- | -------- | -------- | -------- |
+| 1 | 1 | ElitEphant | [1998Isabel/Classifiable-Closet](https://github.com/1998Isabel/Classifiable-Closet) |
+| 2 | 2 | 超萌妹子 | [evamo0508/TrashcAIn](https://github.com/evamo0508/TrashcAIn) |
+| Choice award | 15 | 再說 | [maoredman/marshmallow_roaster](https://github.com/maoredman/marshmallow_roaster) |
 
 ## All team repositories
-| Team Number | Team Name | GitHub link | Description |
+| Team Number | Team Name | GitHub Link | Description |
 | -------- | -------- | -------- | -------- |
 | 1 | ElitEphant | [1998Isabel/Classifiable-Closet](https://github.com/1998Isabel/Classifiable-Closet) |
 | 2 | 超萌妹子 | [evamo0508/TrashcAIn](https://github.com/evamo0508/TrashcAIn) |
@@ -52,7 +93,7 @@ TBA
 | 33 | 溫良恭儉讓禮樂射御書數 | [sSplendidSs/Hackthon-AI-nails](https://github.com/sSplendidSs/Hackthon-AI-nails)<br>[b05611038/makeNTU_2019_g33_unet](https://github.com/b05611038/makeNTU_2019_g33_unet) |
 | 34 | 一言不合就組隊看來要給學長姐罩了 | [Kamigami55/SmartCube_2019MakeNTU](https://github.com/Kamigami55/SmartCube_2019MakeNTU) | Modular lifestyle |
 | 35 | 超級威哥與小夥伴們 朝向爭取正取創客松名額前進 | [william6715/MakeNTU2019](https://github.com/william6715/MakeNTU2019.git) | BoxFlow 支付機器人 |
-| 36 | 不要叫我想 | [KaoWYK/Smart-Lock](https://github.com/KaoWYK/Smart-Lock)<br>[Jim-CTChen/2019-makeNTU-smartLock]() | Smart Bicycle Lock |
+| 36 | 不要叫我想 | [KaoWYK/Smart-Lock](https://github.com/KaoWYK/Smart-Lock)<br>[Jim-CTChen/2019-makeNTU-smartLock](https://github.com/Jim-CTChen/2019-makeNTU-smartLock) | Smart Bicycle Lock |
 | 37 | 這是必填問題（隊長：陳智泓） | [makentu2019lenet](https://github.com/makentu2019lenet) | ABBCC-ConceptBot 掃拖地機器人 |
 | 38 | 孤電子隊 | [cjchengtw/Smart-Cockroach-Killer](https://github.com/cjchengtw/Smart-Cockroach-Killer.git) | Link deprecated |
 | 39 | 俊廷與他的快樂夥伴 | [MortalHappiness/MakeNTU2019](http://github.com/MortalHappiness/MakeNTU2019) | Link deprecated |
