@@ -10,7 +10,6 @@ Summary and list of team repositories of 2019 MakeNTU
 [GitHub Link](https://github.com/ethanhuanginst/2019MakeNTUxST)
 - Face Lock with RPi, Azure, OpenCV \
 [GitHub Link](https://github.com/voidism/MakeNTU2019_workshop)
-<br>
 
 ## Winning teams
 ### Organizer Awards 大會獎
@@ -21,7 +20,7 @@ Summary and list of team repositories of 2019 MakeNTU
 | Best AI | 46 | Tool Man Studio | [voidful/makeNTU2019](https://github.com/voidful/makeNTU2019) (Link deprecated) |
 | Best Maker | 36 | 不要叫我想 | [KaoWYK/Smart-Lock](https://github.com/KaoWYK/Smart-Lock)<br>[Jim-CTChen/2019-makeNTU-smartLock](https://github.com/Jim-CTChen/2019-makeNTU-smartLock) |
 | Most Popular | 15 | 再說 | [maoredman/marshmallow_roaster](https://github.com/maoredman/marshmallow_roaster) |
-<br>
+
 ### Enterprise Awards 企業獎
 #### Chunghwa Telecom Co., Ltd. 中華電信
 | Team Number | Team Name | GitHub Link |
