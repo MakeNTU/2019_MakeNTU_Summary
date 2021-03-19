@@ -3,7 +3,7 @@ Summary and list of team repositories of 2019 MakeNTU
 <!--Description TBA-->
 
 ## 2019 Official Website
-https://github.com/binomial14/2019_MakeNTU_website (Not deployed)
+[GitHub Link](https://github.com/binomial14/2019_MakeNTU_website)
 
 ## 2019 Workshop
 - STM32 \
@@ -49,10 +49,10 @@ TBA
 | 30 | 我是一隻魚，我不能夠喜歡你，就讓我游來游去，然後把你忘記 | [BogiHsu/MakeNTU2019-MagicBox](https://github.com/BogiHsu/MakeNTU2019-MagicBox) | Image to Speech |
 | 31 | DSnPython | N/A |
 | 32 | 1046A | [1046a/MakeNTU_Presentation](https://github.com/1046a/MakeNTU_Presentation) | Smart Fan |
-| 33 | 溫良恭儉讓禮樂射御書數 | [sSplendidSs/Hackthon-AI-nails](https://github.com/sSplendidSs/Hackthon-AI-nails) |
+| 33 | 溫良恭儉讓禮樂射御書數 | [sSplendidSs/Hackthon-AI-nails](https://github.com/sSplendidSs/Hackthon-AI-nails)<br>[b05611038/makeNTU_2019_g33_unet](https://github.com/b05611038/makeNTU_2019_g33_unet) |
 | 34 | 一言不合就組隊看來要給學長姐罩了 | [Kamigami55/SmartCube_2019MakeNTU](https://github.com/Kamigami55/SmartCube_2019MakeNTU) | Modular lifestyle |
 | 35 | 超級威哥與小夥伴們 朝向爭取正取創客松名額前進 | [william6715/MakeNTU2019](https://github.com/william6715/MakeNTU2019.git) | BoxFlow 支付機器人 |
-| 36 | 不要叫我想 | [KaoWYK/Smart-Lock](https://github.com/KaoWYK/Smart-Lock) | Smart Bicycle Lock |
+| 36 | 不要叫我想 | [KaoWYK/Smart-Lock](https://github.com/KaoWYK/Smart-Lock)<br>[Jim-CTChen/2019-makeNTU-smartLock]() | Smart Bicycle Lock |
 | 37 | 這是必填問題（隊長：陳智泓） | [makentu2019lenet](https://github.com/makentu2019lenet) | ABBCC-ConceptBot 掃拖地機器人 |
 | 38 | 孤電子隊 | [cjchengtw/Smart-Cockroach-Killer](https://github.com/cjchengtw/Smart-Cockroach-Killer.git) | Link deprecated |
 | 39 | 俊廷與他的快樂夥伴 | [MortalHappiness/MakeNTU2019](http://github.com/MortalHappiness/MakeNTU2019) | Link deprecated |
